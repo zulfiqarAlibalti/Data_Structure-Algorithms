@@ -11,13 +11,18 @@ public class Main{
         stack.push("Raza");
         stack.push("Muhammad");
 
-        String myFavName = stack.pop();
+        // String myFavName = stack.pop();
 
 
         
-        System.out.println(stack.peek());
-        System.out.println(stack);
-        System.out.println(stack.search(("Ali")));
+        // System.out.println(stack.peek());
+        // System.out.println(stack);
+        // System.out.println(stack.search(("Ali")));
+
+        for(int i= 0; i<100; i++){
+
+            stack.push("Ali");
+        }
         
 
     }
