@@ -12,15 +12,30 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Time Complexity](#TimeComplexity)
-- [Space Complexity](#SpaceComplexity)
+- [Space & Time Complexity](#TimeSpaceComplexity)
+- [Asympototic Analysis of an Algorithm](#asymtoticanalysis)
   
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-## TimeComplexity
-## SpaceComplexity
+## Space & Time Complexity
 - Its amount of memory or space taken by algorithm to run.
 -  The memory required to process the input by an algorithm helps in determining the space complexity.
+
+## Asympototic Analysis of an Algorithm
+- Asymtotic analysis is evaluating performance of an algoeithm in terms of input size and its increase.
+- Using asymptotic analysis we don't measyure actual running time of algorithm.
+- It helps in determining how time and space taken by algorithm increases with input size.
+
+### Asymptotic Notations
+- Asymptotic Notations are the mathematical tools used to describe the running time of an algorithm in term of inout size.
+**Asymptotic Notation helps us in determing**
+* Best Case
+* Average Case
+* Worst Case
+
+#### Types of notations for performing runtime analysis of an algorithm - 
+
+* Omega $\omega$
 
 <!-- ## Getting Started
 
